@@ -1,0 +1,34 @@
+[
+ {
+  "name": "s1n",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/paint/s1.jpg"
+  ],
+  "prompt": "Edit this painting, keeping every line, object and brush stroke in exactly the same place (the result must overlay the original pixel for pixel), same hand-painted gouache and crayon style with ink outlines. No people, no text. Vertical 9:16. Only the light changes: the sun has gone out. The sun disc and its glow are completely gone and the moon disc is completely gone too: where they were there is only black sky. The whole sky is pitch black and crowded with sharp bright stars. The street, houses, tree, wires and motorbike are very dark blue-black silhouettes with only a faint cold starlight on their edges; all the sunlight and all the shadows on the road are gone. No lamp and no window is lit."
+ },
+ {
+  "name": "s1l",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/paint/s1.jpg"
+  ],
+  "prompt": "Edit this painting, keeping every line, object and brush stroke in exactly the same place (the result must overlay the original pixel for pixel), same hand-painted gouache and crayon style with ink outlines. No people, no text. Vertical 9:16. Only the light changes: the sun has gone out and the lamps have come on. The sun disc and its glow are completely gone and the moon disc is completely gone too: where they were there is only black sky. The whole sky is pitch black and crowded with sharp bright stars. The street is dark blue, but the street lamps on their poles are lit and throw warm yellow pools of light on the road, and many windows and balcony doors of the houses glow warm yellow; the bulb at the tea stall is lit. All sunlight and sun shadows are gone."
+ },
+ {
+  "name": "s4f",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/paint/s4.jpg"
+  ],
+  "prompt": "Edit this painting, keeping every line, object and brush stroke in exactly the same place (the result must overlay the original pixel for pixel), same hand-painted gouache and crayon style with ink outlines. No people, no text. Vertical 9:16. Only this changes: everything has frozen. A thick layer of white frost and ice crystals covers the thermometer board, the roller shutter door, the awning, the kettle, the tea glasses (the tea in them is frozen), the table and the stools; small icicles hang from the awning, the thermometer and the table edge. The light bulb still glows but weaker and colder. The glass tube and bulb of the thermometer stay empty and pale. The colours turn cold blue-white."
+ },
+ {
+  "name": "s5f",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/paint/s5.jpg"
+  ],
+  "prompt": "Edit this painting, keeping every line, object and brush stroke in exactly the same place (the result must overlay the original pixel for pixel), same hand-painted gouache and crayon style with ink outlines. No people, no text. Vertical 9:16. Only this changes: the sea has frozen solid. The water is now a flat sheet of pale blue-white ice with long dark cracks and ridges of broken ice where the waves were, reaching to the horizon; the fishing boat is stuck fast in the ice and covered in frost and snow; the sand, the basket boat and the palm leaves are covered in white frost and snow. The sky stays black and full of stars with the Milky Way."
+ }
+]

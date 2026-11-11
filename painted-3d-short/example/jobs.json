@@ -1,0 +1,38 @@
+[
+ {
+  "name": "s1",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/still_1.png",
+   "/Users/admin/Projects/blender-shorts/bookstreet/out/paint/s4.jpg"
+  ],
+  "prompt": "Repaint the FIRST reference image (a plain 3D blockout render) as a hand-painted 2D animation background. Use ONLY THE ART STYLE of the SECOND reference image: gouache and crayon texture, visible brush hatching, thin dark ink outlines, rich saturated colours; do not copy any object from the second image. Keep the composition, camera angle, perspective and the position, size and shape of every object of the FIRST image exactly as they are; do not add, move or remove anything. No people, no text, no letters. Vertical 9:16. A narrow Vietnamese city street at bright noon: tall narrow tube houses in pastel colours with balconies, iron railings, roller shutter doors, awnings, shop sign boards without letters, potted plants, stainless steel water tanks on the roofs, a concrete electricity pole with a tangle of black wires, a leafy tree, a parked red motorbike, a small tea stall with a low blue plastic table and red stools. Strong sunlight with crisp shadows. The bright yellow sun disc with a soft glow stays exactly where the white disc is in the sky, and the small pale daytime moon stays exactly where the small pale disc is at the upper left. Clear blue sky with a few thin clouds."
+ },
+ {
+  "name": "s2",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/still_2.png",
+   "/Users/admin/Projects/blender-shorts/bookstreet/out/paint/s4.jpg"
+  ],
+  "prompt": "Repaint the FIRST reference image (a plain 3D blockout render) as a hand-painted 2D animation background. Use ONLY THE ART STYLE of the SECOND reference image: gouache and crayon texture, visible brush hatching, thin dark ink outlines, rich saturated colours; do not copy any object from the second image. Keep the composition, camera angle, perspective and the position, size and shape of every object of the FIRST image exactly as they are; do not add, move or remove anything. No people, no text, no letters. Vertical 9:16. Looking up from a narrow Vietnamese street at bright noon: the blazing yellow sun disc with a warm glow and soft rays stays exactly where the white disc is in the blue sky. Below it pastel tube houses with balconies, iron railings, air conditioners, stainless steel water tanks and red tile roofs; on the left a concrete electricity pole and black wires crossing the sky. Strong sunlight, crisp shadows."
+ },
+ {
+  "name": "s4",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/still_4.png",
+   "/Users/admin/Projects/blender-shorts/bookstreet/out/paint/s4.jpg"
+  ],
+  "prompt": "Repaint the FIRST reference image (a plain 3D blockout render) as a hand-painted 2D animation background. Use ONLY THE ART STYLE of the SECOND reference image: gouache and crayon texture, visible brush hatching, thin dark ink outlines, rich saturated colours; do not copy any object from the second image. Keep the composition, camera angle, perspective and the position, size and shape of every object of the FIRST image exactly as they are; do not add, move or remove anything. No people, no text, no letters. Vertical 9:16. The scene is in deep darkness: a street tea stall at a house wall under an awning, lit ONLY by the single warm yellow light bulb hanging on its wire, which throws a small warm pool of light on the wall; everything outside the pool is dark blue-black. On the wall hangs a big old wall thermometer: a white enamel board in a wooden frame with small black tick marks and NO numbers, its glass tube and round glass bulb are EMPTY and pale grey-white (no red or coloured liquid at all). In front a low blue plastic table with a metal kettle and three small tea glasses, red plastic stools, a brown roller shutter door behind."
+ },
+ {
+  "name": "s5",
+  "aspect": "9:16",
+  "refs": [
+   "/Users/admin/Projects/blender-shorts/mattroi/out/still_5.png",
+   "/Users/admin/Projects/blender-shorts/bookstreet/out/paint/s4.jpg"
+  ],
+  "prompt": "Repaint the FIRST reference image (a plain 3D blockout render) as a hand-painted 2D animation background. Use ONLY THE ART STYLE of the SECOND reference image: gouache and crayon texture, visible brush hatching, thin dark ink outlines, rich saturated colours; do not copy any object from the second image. Keep the composition, camera angle, perspective and the position, size and shape of every object of the FIRST image exactly as they are; do not add, move or remove anything. No people, no text, no letters. Vertical 9:16. A Vietnamese beach in complete darkness under a black sky crowded with sharp bright stars and the Milky Way, no moon, no sun. The sea is still liquid: dark blue-black water with small waves and thin pale foam lines, faintly lit by starlight. A wooden fishing boat painted blue with a red stripe, a small white cabin and a mast floats near the shore; a round woven bamboo basket boat lies on the sand at the lower right; coconut palm leaves hang in at the upper right; low dark islands on the horizon. Everything is dim, cold and blue."
+ }
+]

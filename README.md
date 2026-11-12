@@ -33,3 +33,7 @@ The skill was written for one studio machine and is not standalone yet:
 - **An image model that can repaint a picture from a reference.** `restyle.mjs` imports a private Flow browser driver (`flow.mjs`, not in this repo). Replace it with your own call; it only needs "reference pictures + prompt → one picture".
 - **ElevenLabs key** in `~/.config/elevenlabs/key` for `tts.mjs` (or write `timing.json` from any other voice tool).
 - A font path in `film.py` (`FONT`), and the music / sound-effect / watermark helpers named in `SKILL.md` — these point at the studio's own scripts and absolute paths in `example/*.json` point at the original project folders.
+
+## Support
+
+If this skill saved you some time, you can [buy me a coffee](https://buymeacoffee.com/thua9678) ☕
